@@ -1,16 +1,7 @@
-# userprofile
+# User Profile UI 
 
-A new Flutter project.
+ScreenShot 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![pic](https://user-images.githubusercontent.com/116195220/197240083-5a21d9ed-5cdf-43c7-8d69-3e95c8dabe87.jpg)
+![WhatsApp Image 2022-10-21 at 17 52 04](https://user-images.githubusercontent.com/116195220/197240087-387f40a4-92ca-4e9d-87d2-d6f282c5500d.jpg)
